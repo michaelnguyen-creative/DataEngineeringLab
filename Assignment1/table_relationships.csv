@@ -1,4 +1,5 @@
-﻿Production,Product,14,4
+schema_name,table_name,incoming_fk_count,outgoing_fk_count
+Production,Product,14,4
 Person,Person,7,1
 HumanResources,Employee,6,1
 Sales,SalesTerritory,5,1

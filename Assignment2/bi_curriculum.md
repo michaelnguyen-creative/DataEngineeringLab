@@ -1,7 +1,7 @@
 # Business Intelligence Lab
 
 In this learning path, we will treat each Project as a **Business Intelligence Deliverable**. Each project follows a standard professional lifecycle: Requirement Gathering, Data Logic (Pseudocode), and Strategic Insight.
-- Dataset: AdventureWorks2025 (OLTP) with application to Amazon e-commerce domain
+- Dataset: AdventureWorks2025 (OLTP) & AdventureWorksDW2025 with application to Amazon e-commerce domain
 
 ---
 
